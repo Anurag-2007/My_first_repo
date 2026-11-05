@@ -1,0 +1,13 @@
+# Developer Resources
+
+## Git
+https://git-scm.com/
+
+## GitHub
+https://github.com/
+
+## Linux
+https://www.kernel.org/
+
+## C++
+https://www.learncpp.com/
